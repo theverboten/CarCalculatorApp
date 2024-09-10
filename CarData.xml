@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Records>
+	<Record>
+		<nazev_modelu>Škoda Oktávia</nazev_modelu>
+		<datum_prodeje>2.12.2010</datum_prodeje>
+		<cena>500.000</cena>
+		<dph>20</dph>
+	</Record>
+
+	<Record>
+		<nazev_modelu>Škoda Felicia</nazev_modelu>
+		<datum_prodeje>3.12.2000</datum_prodeje>
+		<cena>210.000</cena>
+		<dph>20</dph>
+	</Record>
+
+	<Record>
+		<nazev_modelu>Škoda Fabia</nazev_modelu>
+		<datum_prodeje>4.12.2010</datum_prodeje>
+		<cena>350.000</cena>
+		<dph>20</dph>
+	</Record>
+
+	<Record>
+		<nazev_modelu>Škoda Oktávia</nazev_modelu>
+		<datum_prodeje>4.12.2010</datum_prodeje>
+		<cena>500.000</cena>
+		<dph>20</dph>
+	</Record>
+
+	<Record>
+		<nazev_modelu>Škoda Oktávia</nazev_modelu>
+		<datum_prodeje>5.12.2010</datum_prodeje>
+		<cena>500.000</cena>
+		<dph>20</dph>
+	</Record>
+
+	<Record>
+		<nazev_modelu>Škoda Fabia</nazev_modelu>
+		<datum_prodeje>5.12.2010</datum_prodeje>
+		<cena>350.000</cena>
+		<dph>20</dph>
+	</Record>
+
+	<Record>
+		<nazev_modelu>Škoda Fabia</nazev_modelu>
+		<datum_prodeje>6.12.2010</datum_prodeje>
+		<cena>350.000</cena>
+		<dph>20</dph>
+	</Record>
+
+	<Record>
+		<nazev_modelu>Škoda Forman</nazev_modelu>
+		<datum_prodeje>4.12.2000</datum_prodeje>
+		<cena>100.000</cena>
+		<dph>19</dph>
+	</Record>
+
+	<Record>
+		<nazev_modelu>Škoda Favorit</nazev_modelu>
+		<datum_prodeje>5.12.2000</datum_prodeje>
+		<cena>80.000</cena>
+		<dph>19</dph>
+	</Record>
+
+	<Record>
+		<nazev_modelu>Škoda Forman</nazev_modelu>
+		<datum_prodeje>6.12.2000</datum_prodeje>
+		<cena>100.000</cena>
+		<dph>19</dph>
+	</Record>
+
+	<Record>
+		<nazev_modelu>Škoda Felicia</nazev_modelu>
+		<datum_prodeje>3.12.2000</datum_prodeje>
+		<cena>210.000</cena>
+		<dph>19</dph>
+	</Record>
+	
+	<Record>
+		<nazev_modelu>Škoda Felicia</nazev_modelu>
+		<datum_prodeje>2.12.2000</datum_prodeje>
+		<cena>210.000</cena>
+		<dph>19</dph>
+	</Record>
+
+	<Record>
+		<nazev_modelu>Škoda Oktávia</nazev_modelu>
+		<datum_prodeje>7.12.2010</datum_prodeje>
+		<cena>500.000</cena>
+		<dph>20</dph>
+	</Record>
+	
+</Records>
